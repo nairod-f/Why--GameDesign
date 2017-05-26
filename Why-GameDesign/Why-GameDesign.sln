@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Why-GameDesign.Plugins", "Why-GameDesign.Plugins.csproj", "{5EF93BAC-2014-0D3F-4094-32B9FCAB7E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Why-GameDesign", "Why-GameDesign.csproj", "{86079D69-C220-7419-3CE4-E1FA242A9E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Why-GameDesign.Editor.Plugins", "Why-GameDesign.Editor.Plugins.csproj", "{D49F244B-BBF3-D3B5-4134-FCCEBB26D1D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF93BAC-2014-0D3F-4094-32B9FCAB7E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF93BAC-2014-0D3F-4094-32B9FCAB7E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF93BAC-2014-0D3F-4094-32B9FCAB7E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF93BAC-2014-0D3F-4094-32B9FCAB7E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86079D69-C220-7419-3CE4-E1FA242A9E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86079D69-C220-7419-3CE4-E1FA242A9E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86079D69-C220-7419-3CE4-E1FA242A9E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86079D69-C220-7419-3CE4-E1FA242A9E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49F244B-BBF3-D3B5-4134-FCCEBB26D1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49F244B-BBF3-D3B5-4134-FCCEBB26D1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49F244B-BBF3-D3B5-4134-FCCEBB26D1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49F244B-BBF3-D3B5-4134-FCCEBB26D1D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
